@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T14:30:24.708Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="A8-D9QFizHDZOneMmHNS" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T14:48:42.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yyvQuiEBhOmTq8nSfZYB" version="21.7.5" type="github">
   <diagram name="Seite-1" id="VB0bAvirKc_7t9530yRR">
-    <mxGraphModel dx="3342" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4608" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-OBOlxQOVxqPVr_GroP4-2" value="Function Template" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1120" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1120" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-3" target="-OBOlxQOVxqPVr_GroP4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-3" value="Name" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1170" y="310" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1170" y="450" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-4" target="-OBOlxQOVxqPVr_GroP4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-4" value="Returntype" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="320" width="90" height="40" as="geometry" />
+          <mxGeometry x="-960" y="460" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-5" target="-OBOlxQOVxqPVr_GroP4-2">
           <mxGeometry relative="1" as="geometry" />
@@ -26,49 +26,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-5" value="Provider" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-970" y="470" width="90" height="40" as="geometry" />
+          <mxGeometry x="-970" y="610" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-6" target="-OBOlxQOVxqPVr_GroP4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-6" value="Plattform" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1060" y="510" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1060" y="650" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-7" target="-OBOlxQOVxqPVr_GroP4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-7" value="Authentication" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1190" y="500" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1190" y="640" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-13" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-8" target="-OBOlxQOVxqPVr_GroP4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-8" value="Trigger" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="440" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1270" y="580" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-12" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-9" target="-OBOlxQOVxqPVr_GroP4-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-9" value="Parameter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1260" y="375" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1260" y="515" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-17" value="Validation Annotation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-950" y="390" width="90" height="40" as="geometry" />
+          <mxGeometry x="-950" y="530" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-19" value="FunctionCaller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1120" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-21" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-20" target="-OBOlxQOVxqPVr_GroP4-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-20" value="Name Of&lt;br&gt;&amp;nbsp;Function To Call" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1290" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-23" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-22" target="-OBOlxQOVxqPVr_GroP4-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-22" value="Parameter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-535" y="780" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1105" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endWidth=44;endSize=12.2;width=30.4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,7 +80,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-25" value="Type" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1070" y="310" width="90" height="40" as="geometry" />
+          <mxGeometry x="-1070" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-60" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-32" target="-OBOlxQOVxqPVr_GroP4-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-32" value="Generation Function" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="385" width="160" height="60" as="geometry" />
@@ -104,13 +107,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-37" value="Provider" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="860" width="90" height="40" as="geometry" />
+          <mxGeometry x="-940" y="280" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-40" value="GetAllSkillsOfEmployees&lt;br style=&quot;border-color: var(--border-color); font-size: 12px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: left;&quot;&gt;Azure Endpoint&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="340" width="170" height="110" as="geometry" />
+          <mxGeometry x="-720" y="340" width="170" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="-OBOlxQOVxqPVr_GroP4-39" value="FunctionCaller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-OBOlxQOVxqPVr_GroP4-40">
-          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-39" value="FunctionCaller&lt;br&gt;Provider: Google Kubernetes&lt;br&gt;Name:&lt;br&gt;GetAllSkills" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-OBOlxQOVxqPVr_GroP4-40">
+          <mxGeometry x="20" y="40" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-54" value="FunctionCaller&lt;br&gt;Provider: AWS-Lambda&lt;br&gt;Name: GetAllEmployees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-OBOlxQOVxqPVr_GroP4-40">
+          <mxGeometry x="20" y="140" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-41" value="GetAllSkills&lt;br style=&quot;border-color: var(--border-color); font-size: 12px; font-weight: 400; text-align: left;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Google Kubernetes Pod&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="-498" y="275" width="170" height="110" as="geometry" />
@@ -119,16 +125,51 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-44" value="GetAllEmployees&lt;br&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;AWS Lambda Function&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="-498" y="430" width="170" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="-OBOlxQOVxqPVr_GroP4-45" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-39" target="-OBOlxQOVxqPVr_GroP4-44">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-490" y="495" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="-OBOlxQOVxqPVr_GroP4-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endWidth=44;endSize=12.2;width=30.4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="414.71" as="sourcePoint" />
             <mxPoint x="400" y="414.71" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-51" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-47" target="-OBOlxQOVxqPVr_GroP4-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-52" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-47" target="-OBOlxQOVxqPVr_GroP4-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-47" value="GetAllSkillsOfEmployees" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Services.svg;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="460" y="386" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;GetAllEmployees&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="690" y="460" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-49" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="647" y="315" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-50" value="&lt;font color=&quot;#000000&quot;&gt;GetAllSkills&lt;/font&gt;&lt;br&gt;Kubernetes Engine" style="editableCssRules=.*;html=1;fontColor=#999999;shape=image;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;verticalAlign=middle;labelPosition=right;align=left;spacingLeft=20;part=1;points=[];imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjMyOS45MjU5OTcyMzE3OTM4IiBoZWlnaHQ9IjM3OC4yODQ5OTAzMTEyNzg4IiB2aWV3Qm94PSIwIDAgODcuMjkyOTk5MjY3NTc4MTIgMTAwLjA4Nzk5NzQzNjUyMzQ0Ij4mI3hhOzxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+JiN4YTsJLnN0MHtmaWxsOiNhZWNiZmE7fSYjeGE7CS5zdDF7ZmlsbDojNjY5ZGY2O30mI3hhOwkuc3Qye2ZpbGw6IzQyODVmNDt9JiN4YTs8L3N0eWxlPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik00My43NTEgMEwwIDI1LjQ2NXYyLjU4OCA0Ni45Mmw0My43NTIgMjUuMTE1IDQzLjU0MS0yNS4xMjFWMjUuNDczem0yLjQzOCAxMS44NTNsMzIuMTAzIDE4Ljc4MlY2OS43N0w0My43MzkgODkuNzA1IDkgNjkuNzYyVjMwLjY0MWwzMi4xOS0xOC43MzZ2MTQuMTU0TDI0LjUwMyAzNi4xNTNsMTkuMTcyIDExLjUwMiAxOC44ODYtMTEuNTU0LTE2LjM3Mi0xMC4wMjR6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTIyLjAyNSA0MC40OTZsLjE2NiAxOS4xNDMtMTMuMjQ3IDcuMzN2Mi43NDJsMi42MzcgMS41MTQgMTIuNjQ4LTYuOTk5IDE2Ljk2MSAxMC42MDJWNTEuOTkzeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDIiIGQ9Ik02NS4zNDQgNDAuMjZMNDYuMTg5IDUxLjk3OXYyMi44NDdsMTYuODk5LTEwLjU3NiAxMi41MzkgNi45NzQgMi42MDktMS41MDV2LTIuNzY1bC0xMi43ODQtNy4xMTJ6Ii8+JiN4YTs8L3N2Zz4=;fontFamily=Helvetica;fontSize=11;" vertex="1" parent="-OBOlxQOVxqPVr_GroP4-49">
+          <mxGeometry width="26" height="30" relative="1" as="geometry">
+            <mxPoint x="17" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-55" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-54" target="-OBOlxQOVxqPVr_GroP4-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-58" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-57" target="-OBOlxQOVxqPVr_GroP4-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-57" value="Kubernetes:&lt;br&gt;Generiert alle Funktionen, die mit Kubernetes markiert sind als eigene Module.&lt;br&gt;Dazu werden ebenfalls Dockerfiles und für die Microservices benötigten yaml files fürs Deployment benötigt werden generiert." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="150" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-59" value="Aws Lambda Function:&lt;br&gt;Generiert eine Lambda Function im Style von AWS mit den jeweiligen Triggern und Parametern" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="150" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-62" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="-OBOlxQOVxqPVr_GroP4-61" target="-OBOlxQOVxqPVr_GroP4-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-OBOlxQOVxqPVr_GroP4-61" value="Azure Endpoint:&lt;br&gt;Generiert aus der Funktion einen Standard spring boot endpoint der über den Namen der Function aberufen werden kann" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="530" width="240" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
